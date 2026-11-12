@@ -1,11 +1,11 @@
 {
-  "version": "0.2.2",
-  "notes": "OneLibrary export, library hygiene (duplicates, broken, lost, unused files), tracklist sources and set timeline chart, download checks, key second opinion, many fixes.",
-  "pub_date": "2026-11-11T23:09:30Z",
+  "version": "0.2.3",
+  "notes": "Audio size of sets, narrow-window player bar, Enter in search goes to results, tick alignment, fixes.",
+  "pub_date": "2026-11-12T00:15:52Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dmVSRjZaUjlicTJGcXFTSDVsZE9tck9GVnE5OEZXTU1MSTUxeDhKUXFJN2VCOUN0WFFBMCtuaE96RXFzYTJmVVFFSlNFNW1wcFNQTmVKY2REMmFWYkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDM4MTk2CWZpbGU6TmlnaHRkaWdfMC4yLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4yCmNzMVVHcTA4V3F0dlJLNitIeUtOdnd1c1ZFVjdiZXNicDlYSGRRNHNCS0E3MDBMdGFiQlBhL2lzRkdDOExVUlY1OE9tMVJHaUdQMXh3a2ZoVEdYSEFnPT0K",
-      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.2/Nightdig_0.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dlJKTUttUDY4UEQ1UlRFemdZMjNlWmVmbHh1K2ZoN2hOdXJ4ZTdWZkxhZi9oclVWcEg4NFZTSFZTS0VIbjBxSEhvUXU1Z21vbWRFNk05TU9nNlBSM1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDQyNDk3CWZpbGU6TmlnaHRkaWdfMC4yLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4zCnlabkRKK3lRTE1vUGxsdTVXZzlaaW1GL0R1Q0FhQWRFSUVTZHNOUTVFd2FBeDE4cHp2cG80aDV6N0RUUVJQRERUaFlFcHZvRUlFWEtSemdhYTFxUUR3PT0K",
+      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.3/Nightdig_0.2.3_x64-setup.exe"
     }
   }
 }
