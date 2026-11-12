@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3",
-  "notes": "Audio size of sets, narrow-window player bar, Enter in search goes to results, tick alignment, fixes.",
-  "pub_date": "2026-11-12T00:15:52Z",
+  "version": "0.2.4",
+  "notes": "Reliability and safety fixes across set recognition, downloads (Tidal and Soulseek), the library, analysis and export, plus a stricter check on pasted links and assorted UI fixes.",
+  "pub_date": "2026-11-12T05:50:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dlJKTUttUDY4UEQ1UlRFemdZMjNlWmVmbHh1K2ZoN2hOdXJ4ZTdWZkxhZi9oclVWcEg4NFZTSFZTS0VIbjBxSEhvUXU1Z21vbWRFNk05TU9nNlBSM1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDQyNDk3CWZpbGU6TmlnaHRkaWdfMC4yLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4zCnlabkRKK3lRTE1vUGxsdTVXZzlaaW1GL0R1Q0FhQWRFSUVTZHNOUTVFd2FBeDE4cHp2cG80aDV6N0RUUVJQRERUaFlFcHZvRUlFWEtSemdhYTFxUUR3PT0K",
-      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.3/Nightdig_0.2.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dlJKcWc2TUNSRHVYRDhLcVo2cWFoMWdjL0VEcEtPWDh6VmNIbnZkRjYwaHRaUnEyemQyQ0hwLzhrbjNKL0NRbWxyanNiRnYwUmRnMXNDd2EzUDJZTEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDYyNTU4CWZpbGU6TmlnaHRkaWdfMC4yLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi40CkkvYnFPYUJ4RzRYQmRGdCtoM1dzUTNmdm5EeUd0NzRBbG1iY3FhOUpPd0FQUUdQSW9nSmNTZWhTQlloOGt6dTBPRkg4NmNwVzl6bDdTS3RMbmF2MkJnPT0K",
+      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.4/Nightdig_0.2.4_x64-setup.exe"
     }
   }
 }
