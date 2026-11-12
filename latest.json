@@ -1,11 +1,11 @@
 {
-  "version": "0.2.6",
-  "notes": "Fix: a set added from a 1001Tracklists or MixesDB hit no longer fails on Listen now (Unsupported URL): it offers Find a recording and keeps its tracklist. Long tracklist answers in Discover collapse so set results with previews stay in view. The 1001Tracklists status line no longer overlaps Sign in. Discover footer names all five sources.",
-  "pub_date": "2026-11-12T09:09:26Z",
+  "version": "0.2.7",
+  "notes": "Find FLAC only appears for lossy files (Find Hi-Res for 16-bit lossless). Choosing a recording for a tracklist-only set brings its cover and length. Artist names in set tracklists are links. Tracklist-only sets stay out of the play queue. The waveform is drawn in the theme's ink, so it shows on Paper.",
+  "pub_date": "2026-11-12T10:40:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dmJLVFFwRnZKV25QemorOTQxdW5qRWF1S0ttdjFyS0JyL2JjWG1SZ0tuamxHeXpwRGFkbzN3TlpwR3pCb3FxMjRhdzYrUHVsclEzeEZTRHJvUGJ3M1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc0NTM2CWZpbGU6TmlnaHRkaWdfMC4yLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi42CjVZYndYRTcvTlVidWo0SFRCVzh5UVhiKzN2MDBSNUJTY2ZHMlRNK0VrNzkxd2UwZ2haSytVb3EyNmZtWjRjQ2pQOVBmS1JoeXB3N2VtMVJiNmNwdEJRPT0K",
-      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.6/Nightdig_0.2.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dlJySHUwbG9WL2dDUHdlUE5JU1NYRFkzTi9jK1NVb2ZQUCtqK1pMQ01KdmtZaVVESWxybXNhMy80VlRLYm9qU1V5bnNpZmlYZ3NONXlPWEZEUUw4MXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc5NjMzCWZpbGU6TmlnaHRkaWdfMC4yLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi43Ci9GcHYrcHl5bXhYZUF0TjdPRE51V2U1Y0o5cFloc1lUU0Q1UmpTZG1aaWp6bGFBSXI2VlplVTlJbVVJc2FtZUx3eE5GTXFaa3I2aEFjNEl3R1poZEJRPT0K",
+      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.7/Nightdig_0.2.7_x64-setup.exe"
     }
   }
 }
