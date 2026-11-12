@@ -1,11 +1,11 @@
 {
-  "version": "0.2.13",
-  "notes": "Playback no longer sounds uneven when two tracks are almost the same tempo: the beat servo used to flip the browser between straight playback and time-stretching every 200 ms near 1.0x, now it stays on one side. New: Shuffle and Best order (every track once, best transitions, a little different each time) for crates, lists and the queue; drag tracks in the queue, Play next, remove; mix shape and length vary and never repeat the same shape twice in a row; Auto DJ lines up bars and phrases, not only beats (beat one of the bar is measured; Clean up > Refine beatgrids updates old tracks, grids you set by hand are left alone); mixes level-match by loudness; limiter catches fast peaks; the bottom bar is cleaner (Tidal actions in one labelled menu, no overlap in a narrow window).",
-  "pub_date": "2026-11-12T22:04:40Z",
+  "version": "0.2.14",
+  "notes": "While a track downloads, the rest of the app no longer slows down: a track now downloads in 2 parallel pieces instead of 8, so Tidal, covers and previews keep their share of the connection (another request took 2.9 s beside eight pieces, 1.0 s beside two, the download itself no slower). Download progress is reported when the percentage moves, twice a second at most.",
+  "pub_date": "2026-11-12T23:19:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dmNQcVFtRWREOVZtWG4wWWJmV2ZPN0lXM2IrSk9zeXMvekpoVlp4ZXFnUzdzeS90bzFyRDVXcXVjZVEwcWVuTkpXR1dwNEdyWWdUem0rNVUyN3BLZ2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTIxMDQ4CWZpbGU6TmlnaHRkaWdfMC4yLjEzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTMKMTFSVTZ0aFFtRHRRa2VtUy8rcW9iT2IzZFRsSVRBV0FzOFoxdXN5bVN2OUR2Z2hzdnFIQnkwc2xzRVhIc1JjNlQ2S1pLTFVFcGxNVVNobCtpcDZhQ2c9PQo=",
-      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.13/Nightdig_0.2.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dmVyV2x6bjVXblJJN1EwSGtyOE53SDJGdHJsNXhaci8wdTI4NFcvNERHUytDdjVKL0lxcjZ4Nnk1TURhT05tZXdFQTVFMzZjakd5T1dkQUJHWnFiS2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI1NTU4CWZpbGU6TmlnaHRkaWdfMC4yLjE0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTQKeHYwd21GR0pRVHpVQytyMWlSekQ4S2o5M04vREROU0l1Q04xSkp5YllLRGZMbXRyWCtPTW9GYTd3NjRKTkpzQndzSDRhTTVWMU9DbkdIQWFkRTRuQkE9PQo=",
+      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.14/Nightdig_0.2.14_x64-setup.exe"
     }
   }
 }
