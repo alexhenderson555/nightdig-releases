@@ -1,11 +1,11 @@
 {
-  "version": "0.2.4",
-  "notes": "Reliability and safety fixes across set recognition, downloads (Tidal and Soulseek), the library, analysis and export, plus a stricter check on pasted links and assorted UI fixes.",
-  "pub_date": "2026-11-12T05:50:36Z",
+  "version": "0.2.5",
+  "notes": "Five new themes (Midnight, Graphite, OLED, Club) and System that follows Windows. 1001Tracklists: find sets by track through the site's track search. Settings: the 1001Tracklists status line no longer overlaps the Sign in button.",
+  "pub_date": "2026-11-12T08:37:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dlJKcWc2TUNSRHVYRDhLcVo2cWFoMWdjL0VEcEtPWDh6VmNIbnZkRjYwaHRaUnEyemQyQ0hwLzhrbjNKL0NRbWxyanNiRnYwUmRnMXNDd2EzUDJZTEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDYyNTU4CWZpbGU6TmlnaHRkaWdfMC4yLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi40CkkvYnFPYUJ4RzRYQmRGdCtoM1dzUTNmdm5EeUd0NzRBbG1iY3FhOUpPd0FQUUdQSW9nSmNTZWhTQlloOGt6dTBPRkg4NmNwVzl6bDdTS3RMbmF2MkJnPT0K",
-      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.4/Nightdig_0.2.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dmNBQnR1d1NYTW5hczJKdW9zamhNTnNrc3ZSa0I1c1l2ZGw5U21IS1ZLeVFKR0Z6VytQNnJ2WmVYdVpjeHBQUEtjS0pvUTJqaDFtYld2bEd2b1RxRndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDcyNjMwCWZpbGU6TmlnaHRkaWdfMC4yLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi41CnQ5Ulk4TCs3YWVYZE1JVm84cnVFNU83UmJaWjlISWF0MmxiWUxKdnU4MjkwSVFDOFlXdzQ3NVNGVzdnUTIzUHhWUmlYV1BaNkNZYlgrb1krUUV1SkFBPT0K",
+      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.5/Nightdig_0.2.5_x64-setup.exe"
     }
   }
 }
