@@ -1,11 +1,11 @@
 {
-  "version": "0.2.11",
-  "notes": "Auto DJ transitions rebuilt and measured on an offline bench: transition length from the tracks' own outro and intro, bass hand-over without a dip, vocal ducking, beat-phase servo and late-start compensation, steady loudness and a true limiter ceiling (the browser's limiter was adding 0.85 dB). Crossfades of 6 s and longer are shaped and beat-matched. Left rail shows screen names. Endless set from a crate or a list.",
-  "pub_date": "2026-11-12T12:57:46Z",
+  "version": "0.2.12",
+  "notes": "Auto DJ and crossfades: the limiter now catches fast peaks, so two loud masters no longer clip in a mix. Mixes level-match by loudness: the incoming track is turned down to the outgoing track's level (never boosted), so a set does not jump between a loud master and a soft one.",
+  "pub_date": "2026-11-12T20:23:53Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dmVFOHp0cXphdGwvaFpDaGRXSUkvbE9ROHN2UWttNHB0bEdWZVp1eWV6UHNVS0tvTVB4OE9jL0dESlJzdlBrZHFyejhyYkJqMnpyMVJpQU8wc3JPbndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDg4MjM1CWZpbGU6TmlnaHRkaWdfMC4yLjExX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTEKcFJsbVNWOUZnbjdnZ3BvV2ZtUGYyaEpJOFVkaWtSUU0rUERGamliSFRnMW16c3hQUnJQMUtUejNDNmtaSi9VSUdNZ2prVzMxdDZScVJXNmdlTUNDQWc9PQo=",
-      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.11/Nightdig_0.2.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dmZLbkpYU2tGNWlZSGlvdlpQTmMweW1xbHNLQkF1OS9MU2VVNVFNQ2xlSnBZd1kzZTJ5RThHUkNidDFUNCtkcXRDcDVPeDZoc2tmbjdIYTBvUXFZRndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTE0OTk4CWZpbGU6TmlnaHRkaWdfMC4yLjEyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTIKb0E4SUZDTVhDNzd1TUpNVWxodFR6Z01RcitxcVV2SkZTSnlzeWR1RCtkVFBYR3RMVklGMkY0UGpTWEZqS29LMW1tOHQwbWQ0NEFtRG9BUFFJUEwwQXc9PQo=",
+      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.12/Nightdig_0.2.12_x64-setup.exe"
     }
   }
 }
