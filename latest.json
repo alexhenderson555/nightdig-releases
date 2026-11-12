@@ -1,11 +1,11 @@
 {
-  "version": "0.2.8",
-  "notes": "Accept on a quality-held download whose file is gone now fails it with a message instead of crashing; engine errors reach the app as readable messages (no more false 'engine isn't running'). Radio works for tracks that are not on Tidal (uses the artist's radio). A Tidal login is marked expired only when Tidal actually refused it. hearthis.at links are accepted as set sources.",
-  "pub_date": "2026-11-12T10:59:00Z",
+  "version": "0.2.9",
+  "notes": "Auto DJ transitions with per-band EQ and filters (bass swap, filter blend, quick cut, picked by tempo, key and energy); crossfade of 6 s and longer is shaped too. Endless set from a crate or a list. Online tracklists open as a set page with an Add to library button, recordings are read from the tracklist page (1001Tracklists, MixesDB). One merged 'sets with this track' list with Show all. Find a recording asks the page first. Karaoke counts down to the first line. Waveform fits the Paper theme. Search everything from a set page goes to results.",
+  "pub_date": "2026-11-12T11:35:18Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dmF0eE52SVpFSC9FSFk5QStWVXlsQ0V2czhSMGFTMjRWZi9YbHZzVWgzZGNUUW9nYnkvYm9aZklreG0wdmxMblZCMGZYdnpkRkRHdUM3c1JTNVRidmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDgxMDcwCWZpbGU6TmlnaHRkaWdfMC4yLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi44CldjRzJYdFBiVitmemhoOWtNRUk1UUJGYWRxYzhFcm1USEYwdlZWa2JzVFJENjZtamZYeUxYWVI2N1JMeUV0WDcvb2t6QUcyY3pZVGt5Yk8wK0VMYUN3PT0K",
-      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.8/Nightdig_0.2.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dmJGNWZ2VFY3UDAvc25jVXVBK1ZlL25MREpGMDg0alVRQ2tZRlg2MnpWanc2TG9Hd25IM3BMdkY4SE81UVhDRkxvMnNCcG9HU3lZY3ZyOTJITUFZK1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDgzMjg2CWZpbGU6TmlnaHRkaWdfMC4yLjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi45Cmx3ZmFwNXpaSlJ0ZXVjYk1UbllWeUhZSXI4dTlTUVhPbXFsM0ViVzVvN0g0MnFrcjZ4MThZOGxRWXhxRW9nMEFuMGlOQU8yaTQ2MVRuajlocHBjUUFRPT0K",
+      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.9/Nightdig_0.2.9_x64-setup.exe"
     }
   }
 }
