@@ -1,11 +1,11 @@
 {
-  "version": "0.2.12",
-  "notes": "Auto DJ and crossfades: the limiter now catches fast peaks, so two loud masters no longer clip in a mix. Mixes level-match by loudness: the incoming track is turned down to the outgoing track's level (never boosted), so a set does not jump between a loud master and a soft one.",
-  "pub_date": "2026-11-12T20:23:53Z",
+  "version": "0.2.13",
+  "notes": "Playback no longer sounds uneven when two tracks are almost the same tempo: the beat servo used to flip the browser between straight playback and time-stretching every 200 ms near 1.0x, now it stays on one side. New: Shuffle and Best order (every track once, best transitions, a little different each time) for crates, lists and the queue; drag tracks in the queue, Play next, remove; mix shape and length vary and never repeat the same shape twice in a row; Auto DJ lines up bars and phrases, not only beats (beat one of the bar is measured; Clean up > Refine beatgrids updates old tracks, grids you set by hand are left alone); mixes level-match by loudness; limiter catches fast peaks; the bottom bar is cleaner (Tidal actions in one labelled menu, no overlap in a narrow window).",
+  "pub_date": "2026-11-12T22:04:40Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dmZLbkpYU2tGNWlZSGlvdlpQTmMweW1xbHNLQkF1OS9MU2VVNVFNQ2xlSnBZd1kzZTJ5RThHUkNidDFUNCtkcXRDcDVPeDZoc2tmbjdIYTBvUXFZRndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTE0OTk4CWZpbGU6TmlnaHRkaWdfMC4yLjEyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTIKb0E4SUZDTVhDNzd1TUpNVWxodFR6Z01RcitxcVV2SkZTSnlzeWR1RCtkVFBYR3RMVklGMkY0UGpTWEZqS29LMW1tOHQwbWQ0NEFtRG9BUFFJUEwwQXc9PQo=",
-      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.12/Nightdig_0.2.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dmNQcVFtRWREOVZtWG4wWWJmV2ZPN0lXM2IrSk9zeXMvekpoVlp4ZXFnUzdzeS90bzFyRDVXcXVjZVEwcWVuTkpXR1dwNEdyWWdUem0rNVUyN3BLZ2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTIxMDQ4CWZpbGU6TmlnaHRkaWdfMC4yLjEzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTMKMTFSVTZ0aFFtRHRRa2VtUy8rcW9iT2IzZFRsSVRBV0FzOFoxdXN5bVN2OUR2Z2hzdnFIQnkwc2xzRVhIc1JjNlQ2S1pLTFVFcGxNVVNobCtpcDZhQ2c9PQo=",
+      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.13/Nightdig_0.2.13_x64-setup.exe"
     }
   }
 }
