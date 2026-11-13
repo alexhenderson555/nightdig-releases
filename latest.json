@@ -1,11 +1,11 @@
 {
-  "version": "0.2.16",
-  "notes": "Full analysis of every track: where the kick plays and stops, breakdowns, drops and the outro (sections the old analysis missed are filled in), where a track can be mixed in and out, how loud and whether bass and voice are there at those places, whether the tempo holds, and what could not be determined (shown in the track sheet). Clean up > Analyze everything runs it for the whole library (offered once after the update); grids and cues you set by hand stay. Auto DJ: new setting Auto DJ plays (whole tracks / skip long intros / skip long intros and tails), used only where bars are known for both tracks. Seeking during a crossfade now ends it (the old track used to play out its tail). Bar grids are fitted to the kick attack. Shuffle and Best order, queue drag, Arrange menu, long-credit search fixes for MixesDB and 1001Tracklists, Bandcamp's browser check said plainly, and sound fixes (uneven playback at near-equal tempo, level matching, limiter) from 0.2.13 to 0.2.15.",
-  "pub_date": "2026-11-13T10:34:45Z",
+  "version": "0.2.17",
+  "notes": "Looking up the sets of a track is fast again: one search per site (MixesDB 7 sets for See You Again in about 4 s, it used to time out on a slow link); 1001Tracklists searches with the whole credit and the title and accepts the site's own spelling of the credit. Covers: a download keeps the picture of the page it came from (SoundCloud artwork, YouTube thumbnail) and uses it, cropped square, when MusicBrainz has no cover; Ogg Opus (YouTube audio) can now carry a cover at all. The background cover job counts every track of a short list instead of looking stuck at 1 / 10.",
+  "pub_date": "2026-11-13T11:49:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dmRERUs5SS9FTlprMnluTUFYVXBYYzdzdU1NVjR2V0dxcWpjVmJ5TFU3SU9OTExxZXA3SnVuVGNMRFJHdWc4WXIxcFkxem9iNUwrZ1VKSTN2ZTJoNHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTY2MDUxCWZpbGU6TmlnaHRkaWdfMC4yLjE2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTYKbyt5V0Q2eWZ5R3NXQjhlTnhzUE16MDhvc0UvVUR3Z0sxL1U5WGFFcWRTU1pYVWZGNVl4Mnp2L1JjbFhnVEVsaTI4UGUrRW52ZUZFQXZyd3lPY3RyQ1E9PQo=",
-      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.16/Nightdig_0.2.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dlp1ckl3K2tvMnkwQndWQ1hyQXNtM2hRQmxTdmZMUTVRc1hCVmdlc1V6ekZDMkpJM3R3TUs2aUxLaHNlQSt2NGtiUnU4SVQ3SVl1N2hubmNBRVBQR0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTcwNTEwCWZpbGU6TmlnaHRkaWdfMC4yLjE3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTcKOG1lbDJrVno4VUZ3VzZKblZJWTh1YkJ5RkFzWkV5UmVSYnhDanJ0M25rL25CL25jZFpJSE9oeXpFVXQvY3AwNWRBSmNEcDNOaUpzdTE3eDVTTFZ4QVE9PQo=",
+      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.17/Nightdig_0.2.17_x64-setup.exe"
     }
   }
 }
