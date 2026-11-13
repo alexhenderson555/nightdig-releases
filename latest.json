@@ -1,11 +1,11 @@
 {
-  "version": "0.2.15",
-  "notes": "Sound: playback no longer sounds uneven when two tracks are almost the same tempo (the beat servo flipped the browser between straight playback and time-stretching every 200 ms); the beat grid now sits on the kick attack (it used to be 8-19 ms off) and Auto DJ lines up bars and phrases, not only beats; mixes level-match by loudness (quiet tracks are turned up by their headroom), vary in shape and length, and the limiter catches fast peaks. New: Shuffle and Best order for crates, lists and the queue; drag, Play next and remove in the queue; Arrange menu in crates; Clean up > Refine beatgrids (offered once; grids you set by hand stay). Search: tracks with long credits are found on MixesDB and 1001Tracklists through any credited artist (See You Again: 2 sets became 7 on MixesDB). Bandcamp: its browser check is now said plainly in Settings, follows and downloads instead of 'page changed' or silence. The bottom bar is cleaner (Tidal actions in one labelled menu, no overlap in a narrow window).",
-  "pub_date": "2026-11-13T07:19:11Z",
+  "version": "0.2.16",
+  "notes": "Full analysis of every track: where the kick plays and stops, breakdowns, drops and the outro (sections the old analysis missed are filled in), where a track can be mixed in and out, how loud and whether bass and voice are there at those places, whether the tempo holds, and what could not be determined (shown in the track sheet). Clean up > Analyze everything runs it for the whole library (offered once after the update); grids and cues you set by hand stay. Auto DJ: new setting Auto DJ plays (whole tracks / skip long intros / skip long intros and tails), used only where bars are known for both tracks. Seeking during a crossfade now ends it (the old track used to play out its tail). Bar grids are fitted to the kick attack. Shuffle and Best order, queue drag, Arrange menu, long-credit search fixes for MixesDB and 1001Tracklists, Bandcamp's browser check said plainly, and sound fixes (uneven playback at near-equal tempo, level matching, limiter) from 0.2.13 to 0.2.15.",
+  "pub_date": "2026-11-13T10:34:45Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dlRvS0JBdldqNWI2RnNtK21MZERwa0d5eEhVbGZLTit2cWZtanI4V255cmUzZDRkQXp2REp0WXdmR1NBN3JvNTJ1Sk9GRU5mRUV1YjMrUmIrMnFUeHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTU0MzE1CWZpbGU6TmlnaHRkaWdfMC4yLjE1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTUKeXEzNGRQNGQxSmFkaENHS0ROMkV2RkNxY25yTmVzT1B3a3pwQzA3M3RKYXVSRVpwWEZGNmVXbTRzMnphMXY0UnY3SkJhc0RzdkVYZFJJT25DQWZoQ1E9PQo=",
-      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.15/Nightdig_0.2.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dmRERUs5SS9FTlprMnluTUFYVXBYYzdzdU1NVjR2V0dxcWpjVmJ5TFU3SU9OTExxZXA3SnVuVGNMRFJHdWc4WXIxcFkxem9iNUwrZ1VKSTN2ZTJoNHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTY2MDUxCWZpbGU6TmlnaHRkaWdfMC4yLjE2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTYKbyt5V0Q2eWZ5R3NXQjhlTnhzUE16MDhvc0UvVUR3Z0sxL1U5WGFFcWRTU1pYVWZGNVl4Mnp2L1JjbFhnVEVsaTI4UGUrRW52ZUZFQXZyd3lPY3RyQ1E9PQo=",
+      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.16/Nightdig_0.2.16_x64-setup.exe"
     }
   }
 }
