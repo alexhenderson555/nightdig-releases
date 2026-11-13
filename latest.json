@@ -1,11 +1,11 @@
 {
-  "version": "0.2.14",
-  "notes": "While a track downloads, the rest of the app no longer slows down: a track now downloads in 2 parallel pieces instead of 8, so Tidal, covers and previews keep their share of the connection (another request took 2.9 s beside eight pieces, 1.0 s beside two, the download itself no slower). Download progress is reported when the percentage moves, twice a second at most.",
-  "pub_date": "2026-11-12T23:19:50Z",
+  "version": "0.2.15",
+  "notes": "Sound: playback no longer sounds uneven when two tracks are almost the same tempo (the beat servo flipped the browser between straight playback and time-stretching every 200 ms); the beat grid now sits on the kick attack (it used to be 8-19 ms off) and Auto DJ lines up bars and phrases, not only beats; mixes level-match by loudness (quiet tracks are turned up by their headroom), vary in shape and length, and the limiter catches fast peaks. New: Shuffle and Best order for crates, lists and the queue; drag, Play next and remove in the queue; Arrange menu in crates; Clean up > Refine beatgrids (offered once; grids you set by hand stay). Search: tracks with long credits are found on MixesDB and 1001Tracklists through any credited artist (See You Again: 2 sets became 7 on MixesDB). Bandcamp: its browser check is now said plainly in Settings, follows and downloads instead of 'page changed' or silence. The bottom bar is cleaner (Tidal actions in one labelled menu, no overlap in a narrow window).",
+  "pub_date": "2026-11-13T07:19:11Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dmVyV2x6bjVXblJJN1EwSGtyOE53SDJGdHJsNXhaci8wdTI4NFcvNERHUytDdjVKL0lxcjZ4Nnk1TURhT05tZXdFQTVFMzZjakd5T1dkQUJHWnFiS2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI1NTU4CWZpbGU6TmlnaHRkaWdfMC4yLjE0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTQKeHYwd21GR0pRVHpVQytyMWlSekQ4S2o5M04vREROU0l1Q04xSkp5YllLRGZMbXRyWCtPTW9GYTd3NjRKTkpzQndzSDRhTTVWMU9DbkdIQWFkRTRuQkE9PQo=",
-      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.14/Nightdig_0.2.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dlRvS0JBdldqNWI2RnNtK21MZERwa0d5eEhVbGZLTit2cWZtanI4V255cmUzZDRkQXp2REp0WXdmR1NBN3JvNTJ1Sk9GRU5mRUV1YjMrUmIrMnFUeHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTU0MzE1CWZpbGU6TmlnaHRkaWdfMC4yLjE1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTUKeXEzNGRQNGQxSmFkaENHS0ROMkV2RkNxY25yTmVzT1B3a3pwQzA3M3RKYXVSRVpwWEZGNmVXbTRzMnphMXY0UnY3SkJhc0RzdkVYZFJJT25DQWZoQ1E9PQo=",
+      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.15/Nightdig_0.2.15_x64-setup.exe"
     }
   }
 }
