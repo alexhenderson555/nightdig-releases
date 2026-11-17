@@ -1,11 +1,11 @@
 {
-  "version": "0.2.17",
-  "notes": "Looking up the sets of a track is fast again: one search per site (MixesDB 7 sets for See You Again in about 4 s, it used to time out on a slow link); 1001Tracklists searches with the whole credit and the title and accepts the site's own spelling of the credit. Covers: a download keeps the picture of the page it came from (SoundCloud artwork, YouTube thumbnail) and uses it, cropped square, when MusicBrainz has no cover; Ogg Opus (YouTube audio) can now carry a cover at all. The background cover job counts every track of a short list instead of looking stuck at 1 / 10.",
-  "pub_date": "2026-11-13T11:49:09Z",
+  "version": "0.2.18",
+  "notes": "Stem transitions (optional model download): Auto DJ can play a prepared stem-based mix between two tracks. Beat This! bar model (optional) as a second opinion on where bars start. Bar-aware bass swap on the bar line, phrase-aligned 8/16 bar mixes, short mix for risky pairs, trim cap and measured exit point. Sections editor in the track sheet. Mix menu and worded chips in the bottom bar, Play menu, compact headers, clearer engine-down screens. Deeper YouTube comment reading finds tracklists the first comments miss. Fixes: tempo glide speed, level match boost, settings token leak, HLS stream safety, long-mix analysis memory, many smaller ones.",
+  "pub_date": "2026-11-17T09:39:38Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dlp1ckl3K2tvMnkwQndWQ1hyQXNtM2hRQmxTdmZMUTVRc1hCVmdlc1V6ekZDMkpJM3R3TUs2aUxLaHNlQSt2NGtiUnU4SVQ3SVl1N2hubmNBRVBQR0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTcwNTEwCWZpbGU6TmlnaHRkaWdfMC4yLjE3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTcKOG1lbDJrVno4VUZ3VzZKblZJWTh1YkJ5RkFzWkV5UmVSYnhDanJ0M25rL25CL25jZFpJSE9oeXpFVXQvY3AwNWRBSmNEcDNOaUpzdTE3eDVTTFZ4QVE9PQo=",
-      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.17/Nightdig_0.2.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRWRXdnlUUUl2dllDbStsaWllcE9WN0gyVXAyRWZ3QTIvdUo0am1NTGpoNWpuVE9EeDNveHRlZzNKaC8zUXJMRE0wWEFvVTJUbHI2VVlsREdiR1pTNUxXazR2bGtGQ2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTA4MjQ5CWZpbGU6TmlnaHRkaWdfMC4yLjE4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTgKSWUxNWFJQ0h0Mk9kL0YvK0w2TGxtbXdXenRvTjhVZkVZSlZ6OUxicVd4T2tLbnpZZXJBMnpTK2t0Wjduc3Vld1VMV2lWdy9WZlAzbFl0WUM3N2xoQXc9PQo=",
+      "url": "https://github.com/alexhenderson555/nightdig-releases/releases/download/v0.2.18/Nightdig_0.2.18_x64-setup.exe"
     }
   }
 }
